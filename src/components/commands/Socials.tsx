@@ -52,19 +52,19 @@ const socials = [
   {
     id: 1,
     title: "GitHub",
-    url: "https://github.com/satnaing",
+    url: "https://github.com/vxkitvn",
     tab: 3,
   },
   {
     id: 2,
     title: "Dev.to",
-    url: "https://dev.to/satnaing",
+    url: "https:t.me/deptraiaiyeu",
     tab: 3,
   },
   {
     id: 3,
     title: "Facebook",
-    url: "https://www.facebook.com/satnaing.dev",
+    url: "https://www.facebook.com/vuxuankiendzvcl",
     tab: 1,
   },
   {
